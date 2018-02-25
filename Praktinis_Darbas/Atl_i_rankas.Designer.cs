@@ -103,6 +103,7 @@
             this.Controls.Add(this.textBoxSuma);
             this.Name = "Atl_i_rankas";
             this.Text = "Atl_i_rankas";
+            this.Load += new System.EventHandler(this.Atl_i_rankas_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

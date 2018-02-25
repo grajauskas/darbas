@@ -36,7 +36,6 @@ namespace Praktinis_Darbas
 
             textBoxAntPop.Text = "";
 
-
             MessageBox.Show("Pajamų mokestis 15 % (VMI): " + vmi);
             MessageBox.Show("Sodra. Sveikatos draudimas 6 % (Sodra): " + sodSveikDrau);
             MessageBox.Show("Sodra. Pensijų ir soc. draudimas 3 % (Sodra): " + sodPencDrau);

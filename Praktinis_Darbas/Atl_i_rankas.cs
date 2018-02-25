@@ -47,5 +47,10 @@ namespace Praktinis_Darbas
             MessageBox.Show("Jusu darbo vietatos kaina darbdaviui: " + darbSodra);
 
         }
+
+        private void Atl_i_rankas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
